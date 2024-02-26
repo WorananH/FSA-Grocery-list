@@ -1,0 +1,44 @@
+
+
+
+h1,h3 {
+    text-align: center;
+}
+
+h1 {
+    font-family:serif;
+    color:rgb(8, 11, 214);
+}
+
+
+body{
+    background-color: bisque;
+}
+h2 {
+    background-color: rgb(237, 207, 100);
+    width: 400px;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-family: Fantasy;
+    
+ } 
+
+ .itemsList{
+
+
+    background-color:cornsilk;
+    width: 200px;
+    border: 2px solid ;
+    margin: 20px;
+    text-align: left;
+    color: blue;
+    position: relative;
+ }
+
+ .container {
+    display: flex;
+ }
+
+
